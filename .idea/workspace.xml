@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="631d39cb-6b11-49b1-a42d-a11e72975718" name="默认更改列表" comment="" />
+    <list default="true" id="631d39cb-6b11-49b1-a42d-a11e72975718" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/输出表格图片.py" beforeDir="false" afterPath="$PROJECT_DIR$/输出表格图片.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,19 +36,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/大数字转中文.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-824">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/输出表格图片.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
+            <state relative-caret-position="408">
+              <caret line="107" column="12" lean-forward="true" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -56,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/打印进度条.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
+            <state relative-caret-position="160">
               <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
               <folding>
                 <element signature="e#24#35#0" expanded="true" />
@@ -104,9 +98,9 @@
         <option value="$PROJECT_DIR$/从字符串中提取省-市-区/地址字符串.txt" />
         <option value="$PROJECT_DIR$/从字符串中提取省-市-区/main.py" />
         <option value="$PROJECT_DIR$/打印进度条.py" />
-        <option value="$PROJECT_DIR$/输出表格图片.py" />
         <option value="$PROJECT_DIR$/Excel读写.py" />
         <option value="$PROJECT_DIR$/大数字转中文.py" />
+        <option value="$PROJECT_DIR$/输出表格图片.py" />
       </list>
     </option>
   </component>
@@ -193,18 +187,20 @@
       <workItem from="1562233382927" duration="6000" />
       <workItem from="1562233402270" duration="199000" />
       <workItem from="1562303438085" duration="1976000" />
-      <workItem from="1563171646106" duration="3794000" />
+      <workItem from="1563171646106" duration="4393000" />
+      <workItem from="1563268263186" duration="21000" />
+      <workItem from="1563343099519" duration="227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11003000" />
+    <option name="totallyTimeSpent" value="11850000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26865673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -235,10 +231,22 @@
     <entry file="file://$PROJECT_DIR$/省-市-区.csv" />
     <entry file="file://$PROJECT_DIR$/从字符串中提取省-市-区.py" />
     <entry file="file://$PROJECT_DIR$/从字符串中提取省-市-区/地区.txt" />
+    <entry file="file://$PROJECT_DIR$/Excel读写.py" />
+    <entry file="file://$PROJECT_DIR$/大数字转中文.py" />
     <entry file="file://$PROJECT_DIR$/从字符串中提取省-市-区/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/打印进度条.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -256,33 +264,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/打印进度条.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <element signature="e#24#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/输出表格图片.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Excel读写.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/删除指定文件.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
@@ -290,10 +271,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/大数字转中文.py">
+    <entry file="file://$PROJECT_DIR$/输出表格图片.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-824">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="408">
+          <caret line="107" column="12" lean-forward="true" selection-start-line="107" selection-start-column="12" selection-end-line="107" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

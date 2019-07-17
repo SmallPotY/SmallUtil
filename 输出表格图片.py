@@ -14,6 +14,7 @@ def create_table_img(data, img_name, **kwargs):
         table_top_heght 设置表格顶部留白高度
         table_botton_heght 设置表格顶部留白高度
         describe 底部描述文字
+        dpi 图片保存分辨率
     """
     space = 20  # 表格边距
     # 生成图片-----------------------------
@@ -26,6 +27,11 @@ def create_table_img(data, img_name, **kwargs):
     # 默认字体
     if 'font' not in kwargs:
         kwargs['font'] = None
+
+    if 'dpi' not in kwargs:
+        dpi = (300.0, 300.0)
+    else:
+        dpi = kwargs['dpi']
 
     # 默认字体大小
     if 'default_font_size' not in kwargs:
@@ -101,7 +107,7 @@ def create_table_img(data, img_name, **kwargs):
             draw.text((space, y), describe_row, fill=(0, 0, 0), font=font)
     del draw
     # 保存为图片
-    im_new.save(img_name, kwargs['img_type'])
+    im_new.save(img_name, kwargs['img_type'], dpi=dpi)
     return True
 
 
