@@ -1,0 +1,6 @@
+/venv
+.idea
+__pycache__
+.apiModel.version
+HanyiSentyCrayon.ttf
+SIMHEI.TTF
